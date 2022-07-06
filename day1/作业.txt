@@ -1,0 +1,7 @@
+网站接口:https://webapi.cninfo.com.cn/api/sysapi/p_sysapi1007
+网站地址:https://webapi.cninfo.com.cn/#/marketDataDate  访问这个
+ 请求头参数加密:mcode 解析他
+
+1. 扣js实现
+2. Python代码实现
+提交方式： 压缩包: 网名-day1.zip(rar)
